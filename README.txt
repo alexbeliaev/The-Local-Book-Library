@@ -12,6 +12,20 @@ The purpose of this project:
 5. Get access to your collection through the web browser interface and the local HTTP web server.
 
 
+---------------------------------------------------------------------
+[Project description]
+
+1. 
+index.php
+The PHP script, which creates the web interface. It should be placed in the web directory of Apache server
+
+2.  
+Step1_Look_for_books.py
+Step2_Create_Table.py
+Step3_Update_Table.py 
+
+The three step Python scripts, which are scanning for books and generating database (see below). 
+
 
 ---------------------------------------------------------------------
 [What is needed]
