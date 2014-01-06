@@ -13,7 +13,7 @@ The purpose of this project:
 
 
 ---------------------------------------------------------------------
-[Project description]
+[The Project description]
 
 1. 
 index.php
