@@ -52,8 +52,8 @@ L = Load_Report('report.txt')
 
 
 #Delite
-req = "DELETE FROM updated WHERE ID > '0'"        # delite all
-SQL(req)
+#req = "DELETE FROM updated WHERE ID > '0'"        # delite all
+#SQL(req)
 
 
 i = 0
